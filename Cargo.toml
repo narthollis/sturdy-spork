@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "spork-server",
+    "spork-client",
+    "spork-protocol",
+    # Executables
+    "server",
+    "client"
+]
+resolver = "2"
